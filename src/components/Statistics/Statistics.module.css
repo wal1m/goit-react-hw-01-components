@@ -1,0 +1,29 @@
+.statistics {
+  width: 320px;
+}
+
+.title {
+  display: block;
+  margin-bottom: 0;
+  text-align: center;
+  background-color: #dadada;
+}
+
+.list {
+  display: flex;
+}
+
+.item {
+  /* display: block; */
+  /* display: inline-block; */
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  background-color: #159da7;
+  border: 1px solid #505050;
+}
+
+.label {
+  display: block;
+}

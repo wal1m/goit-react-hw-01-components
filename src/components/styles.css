@@ -1,0 +1,21 @@
+li {
+  list-style: none;
+}
+
+ul {
+  margin-top: 0;
+  padding: 0;
+}
+.isActive {
+  height: 18px;
+  width: 18px;
+  border-radius: 50%;
+  background-color: green;
+}
+
+.isNotActive {
+  height: 18px;
+  width: 18px;
+  border-radius: 50%;
+  background-color: red;
+}
